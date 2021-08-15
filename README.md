@@ -1,7 +1,7 @@
 # Few Shot Learning with CLIP
 Few Shot Learning using CLIP as visual feature extractor.
 
-<a href="url"><img src="project_image/FSL_project.jpg" align="center" height="350" width="350" ></a>
+<a href="url"><img src="project_image/FSL_project.png" align="center" height="350" width="350" ></a>
 <p></p>
 
 * To Train the models and visualize results please refer to the file FSL Case Study.ipynb (Jupyter-Notebook).
