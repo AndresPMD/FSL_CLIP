@@ -1,5 +1,5 @@
 # Few Shot Learning with CLIP
-Few Shot Learning using CLIP as visual feature extractor.
+Fast Prototype of a Few Shot Learning approach using CLIP as visual feature extractor.
 
 <a href="url"><img src="project_image/FSL_project.png" align="center" height="500" width="650" ></a>
 <p></p>
@@ -51,7 +51,9 @@ Please create a folder ./models
 Copy the weights inside this folder.
 
 ## Training
+To train the pre-trained ViT/16 from CLIP, please run:
 
-Please refer to Jupyter-Notebook notes.
+    $ python train_clip.py
+
 
 
