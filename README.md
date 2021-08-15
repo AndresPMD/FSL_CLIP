@@ -30,6 +30,8 @@ Check if all dependencies are met comparing to the environment.yml file provided
 
 Create the folder ./data/coco_crops_few_shot
 
+Place inside the folder the train and test splits. Inside each split folder there must be folders with the name of the class of the images that it contain.
+
 Create the json files required to train/eval the model:
 
     $ python preproc_data.py
