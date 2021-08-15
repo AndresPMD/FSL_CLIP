@@ -56,4 +56,5 @@ To train the pre-trained ViT/16 from CLIP, please run:
     $ python train_clip.py
 
 
+TODO: Add arguments of the hyperparams for the training/eval process
 
