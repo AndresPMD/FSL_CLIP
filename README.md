@@ -1,7 +1,7 @@
 # Few Shot Learning with CLIP
 Few Shot Learning using CLIP as visual feature extractor.
 
-<a href="url"><img src="project_image/FSL_project.png" align="center" height="350" width="550" ></a>
+<a href="url"><img src="project_image/FSL_project.png" align="center" height="400" width="550" ></a>
 <p></p>
 
 * To Train the models and visualize results please refer to the file FSL Case Study.ipynb (Jupyter-Notebook).
@@ -36,12 +36,17 @@ Create the json files required to train/eval the model:
 
 
 ## Weights
+
 Weights for the pretrained models can be obtained from:
 
+Fine-tuned ResNet pre-trained in ImageNet:
+https://drive.google.com/file/d/1OJAYp39uHxQ7kAWvF4B019z_Ns1fR3F2/view?usp=sharing
 
+Fine-Tuned ViT/16 Image Encoder pre-trained with CLIP:
+https://drive.google.com/file/d/1VUDLb_YDkaZMawkONV5q41sutrUCfJSn/view?usp=sharing
 
 
 ## Training
-
+Please refer to Jupyter-Notebook notes.
 
 
