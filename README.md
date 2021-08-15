@@ -1,2 +1,2 @@
-# FSL_CLIP
-FSL using CLIP as visual feature extractor
+# Few Shot Learning with CLIP
+Few Shot Learning using CLIP as visual feature extractor
